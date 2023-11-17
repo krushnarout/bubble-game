@@ -12,3 +12,12 @@ A simple bubble hit game implemented in HTML, CSS, and JavaScript. Click the bub
 - Click on bubbles at the bottom of the screen to match the target number displayed on the top.
 - Each correct hit increases your score by 10 points.
 - The game ends when the timer reaches 0.
+
+# Project Structure
+
+The project is structured as follows:
+
+- `Icon` - This folder contains icons that used in this project.
+- `index.html` - HTML file for the bubble game.
+- `script.js` - JavaScript file containing the game logic.
+- `style.css` - CSS file for styling the bubble game.
