@@ -38,13 +38,13 @@ function runTimer() {
 
 document.querySelector("#pbtm").addEventListener("click",
   function (details) {
-  var Clickednum = Number(details.target.textContent);
-  if (Clickednum === hitrn) {
-    increaseScore();
-    makeBubble();
-    getNewHit();
-  }
-});
+    var Clickednum = Number(details.target.textContent);
+    if (Clickednum === hitrn) {
+      increaseScore();
+      makeBubble();
+      getNewHit();
+    }
+  });
 
 runTimer()
 makeBubble();
