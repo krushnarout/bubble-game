@@ -21,3 +21,6 @@ The project is structured as follows:
 - `index.html` - HTML file for the bubble game.
 - `script.js` - JavaScript file containing the game logic.
 - `style.css` - CSS file for styling the bubble game.
+
+# Contributing
+Contributions are welcome! If you have ideas for improvement or find any issues, please open an issue or submit a pull request.
