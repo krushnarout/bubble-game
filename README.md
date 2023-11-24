@@ -4,7 +4,7 @@ A simple bubble hit game implemented in HTML, CSS, and JavaScript. Click the bub
 
 # Preview
 
-![Bubble-Game ](https://github.com/krushnarout/bubble-hit/assets/129386740/4932b985-ec25-4a44-859e-505937a7caa4)
+![Bubble-Game ](https://github.com/krushnarout/bubble-hit/assets/129386740/9e71f622-9d9f-41f7-82fa-d8fd8f906b7c)
 
 # Gameplay
 
